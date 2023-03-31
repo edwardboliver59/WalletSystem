@@ -38,7 +38,20 @@ namespace WalletSystem.UnitTest.ControllerTest
             Assert.That(actualResult, Is.True);
         }
 
-     
+        [Test]
+        public void WithdrawTest()
+        {
+            var sampleData = new WithdrawData()
+            {
+                AccountNumber = 2023331124234,
+                Amount = 1000
+            };
+
+            var actualResult = _transactionsService.Withdraw(sampleData) != null;
+
+            Assert.That(actualResult, Is.True);
+        }
+
         [Test]
         public void TransferFundsTest()
         {

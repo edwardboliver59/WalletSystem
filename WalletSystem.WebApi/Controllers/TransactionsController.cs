@@ -27,6 +27,16 @@ namespace WalletSystem.WebApi.Controllers
         }
 
         [HttpPost]
+        public JsonResult Withdraw([FromBody] WithdrawData value)
+        {
+
+            if (!ModelState.IsValid)
+                return new JsonResult(ModelState);
+            return new JsonResult(_transactionsService.Withdraw(value).Value);
+
+        }
+
+        [HttpPost]
         public JsonResult TransferFunds([FromBody] TransferFundsData value)
         {
 

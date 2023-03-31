@@ -59,6 +59,58 @@ namespace WalletSystem.BusinessLogic.Services
             }
 
         }
+
+        public JsonResult Withdraw(WithdrawData value)
+        {
+            try
+            {
+                using SqlConnection connection = new(Constants.ConnectionString.Connection.GetConnection());
+                connection.Open();
+
+                //Get Account Current Balance
+                SqlCommand GetCurrentBalanceCmd = connection.CreateCommand();
+                decimal CurrentBalance = 0;
+                string CurrentBalanceQuery = string.Format(Constants.SqlQuery.Query.GetCurrentBalance(value.AccountNumber));
+                GetCurrentBalanceCmd.CommandText = CurrentBalanceQuery;
+                SqlDataReader reader = GetCurrentBalanceCmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    CurrentBalance = reader.IsDBNull(3) ? 0 : reader.GetDecimal(3);
+                }
+
+                //Update Current Balance
+                string TransferFunds = string.Format(Constants.SqlQuery.Query.DepositFunds());
+                using SqlCommand TransferFundsCmd = new(TransferFunds, connection);
+                TransferFundsCmd.Parameters.AddWithValue("@Balance", CurrentBalance - value.Amount);
+                TransferFundsCmd.Parameters.AddWithValue("@AccountNumber", value.AccountNumber);
+                TransferFundsCmd.ExecuteNonQuery();
+
+
+                //Add Withdraw History
+                string AddDepositHistory = string.Format(Constants.SqlQuery.Query.AddTransferHistoryQuery());
+                using SqlCommand AddDepositHistoryCmd = new(AddDepositHistory, connection);
+                AddDepositHistoryCmd.Parameters.AddWithValue("@TransactionType", "Withdraw");
+                AddDepositHistoryCmd.Parameters.AddWithValue("@Amount", value.Amount);
+                AddDepositHistoryCmd.Parameters.AddWithValue("@AccountNumber", value.AccountNumber);
+                AddDepositHistoryCmd.Parameters.AddWithValue("@DateOfTransaction", DateTime.Now);
+                AddDepositHistoryCmd.Parameters.AddWithValue("@EndBalance", CurrentBalance - value.Amount);
+                AddDepositHistoryCmd.ExecuteNonQuery();
+
+                connection.Dispose();
+                connection.Close();
+
+
+
+                return new JsonResult("Deposit Funds Successfully");
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+
+        }
+
         public JsonResult TransferFunds(TransferFundsData value)
         {
             try
