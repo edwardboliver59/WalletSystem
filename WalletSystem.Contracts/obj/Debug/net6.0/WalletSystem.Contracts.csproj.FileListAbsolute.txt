@@ -1,0 +1,30 @@
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Contracts\bin\Debug\net6.0\WalletSystem.Contracts.deps.json
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Contracts\bin\Debug\net6.0\WalletSystem.Contracts.dll
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Contracts\bin\Debug\net6.0\WalletSystem.Contracts.pdb
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Contracts\bin\Debug\net6.0\WalletSystem.Entities.dll
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Contracts\bin\Debug\net6.0\WalletSystem.Entities.pdb
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.csproj.AssemblyReference.cache
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.AssemblyInfoInputs.cache
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.AssemblyInfo.cs
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.csproj.CopyComplete
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.dll
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\refint\WalletSystem.Contracts.dll
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.pdb
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\ref\WalletSystem.Contracts.dll
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Contracts\bin\Debug\net6.0\WalletSystem.Contracts.deps.json
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Contracts\bin\Debug\net6.0\WalletSystem.Contracts.dll
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Contracts\bin\Debug\net6.0\WalletSystem.Contracts.pdb
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Contracts\bin\Debug\net6.0\WalletSystem.Entities.dll
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Contracts\bin\Debug\net6.0\WalletSystem.Entities.pdb
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.csproj.AssemblyReference.cache
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.AssemblyInfoInputs.cache
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.AssemblyInfo.cs
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.csproj.CopyComplete
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.dll
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\refint\WalletSystem.Contracts.dll
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\WalletSystem.Contracts.pdb
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Contracts\obj\Debug\net6.0\ref\WalletSystem.Contracts.dll

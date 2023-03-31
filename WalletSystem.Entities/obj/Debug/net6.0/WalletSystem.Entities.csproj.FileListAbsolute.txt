@@ -1,0 +1,24 @@
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Entities\bin\Debug\net6.0\WalletSystem.Entities.deps.json
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Entities\bin\Debug\net6.0\WalletSystem.Entities.dll
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Entities\bin\Debug\net6.0\WalletSystem.Entities.pdb
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\WalletSystem.Entities.csproj.AssemblyReference.cache
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\WalletSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\WalletSystem.Entities.AssemblyInfoInputs.cache
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\WalletSystem.Entities.AssemblyInfo.cs
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\WalletSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\WalletSystem.Entities.dll
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\refint\WalletSystem.Entities.dll
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\WalletSystem.Entities.pdb
+C:\Users\DRAWDE\Desktop\INTERVIEW FILE\WalletSystem\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\ref\WalletSystem.Entities.dll
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Entities\bin\Debug\net6.0\WalletSystem.Entities.deps.json
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Entities\bin\Debug\net6.0\WalletSystem.Entities.dll
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Entities\bin\Debug\net6.0\WalletSystem.Entities.pdb
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\WalletSystem.Entities.csproj.AssemblyReference.cache
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\WalletSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\WalletSystem.Entities.AssemblyInfoInputs.cache
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\WalletSystem.Entities.AssemblyInfo.cs
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\WalletSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\WalletSystem.Entities.dll
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\refint\WalletSystem.Entities.dll
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\WalletSystem.Entities.pdb
+C:\Users\DRAWDE\Desktop\GitClone\WalletSystem.WebApi\WalletSystem.Entities\obj\Debug\net6.0\ref\WalletSystem.Entities.dll
